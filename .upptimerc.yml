@@ -17,6 +17,14 @@ sites:
     url: https://civteam.com
   - name: Drivers Clearinghouse
     url: https://www.driversclearinghouse.com
+  - name: Medical History Survey Frontend Dodmets
+    url: https://app.dodmets.com
+  - name: Medical History Survey Backend Dodmets
+    url: https://app-2.dodmets.com
+  - name: Medical History Survey Frontend Afmets
+    url: https://usaf-civ-web-001.dodmets.com
+  - name: Medical History Survey Backend Afmets
+    url: https://usaf-civ-web-001.dodmets.com:3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
