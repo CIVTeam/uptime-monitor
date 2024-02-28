@@ -11,10 +11,24 @@ sites:
     url: https://af.dodmets.com
   - name: Concorde2000
     url: https://concorde2000.com
+  - name: Help 
+    url: https://help.concorde2000.com
+  - name: Customer Support
+    url: https://customersupport.concorde2000.com
   - name: Civteam
     url: https://civteam.com
   - name: Drivers Clearinghouse
     url: https://www.driversclearinghouse.com
+  - name: FastTest
+    url: https://fasttest.concorde2000.com/Login.aspx
+  - name: Smart
+    url: https://smart.concorde2000.com
+  - name: Concorde Admissions
+    url: https://concordeadmissions.com
+  - name: Concorde Analytics
+    url: https://concordeanalytics.com
+  - name: 8f7
+    url: https://www09.8f7.com
   - name: Medical History Survey Frontend Dodmets
     url: https://app.dodmets.com
   - name: Medical History Survey Backend Dodmets
@@ -23,6 +37,9 @@ sites:
     url: https://usaf-civ-web-001.dodmets.com
   - name: Medical History Survey Backend Afmets
     url: https://usaf-civ-web-001.dodmets.com:3000
+  - name: Postal
+    url: https://postal.dodmets.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
