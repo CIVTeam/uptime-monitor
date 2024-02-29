@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 443,
+      "2024-02-29": 470,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 443,
+      "2024-02-29": 470,
       "2024-02-28": 458
     }
   },
@@ -121,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 443,
+      "2024-02-29": 470,
       "2024-02-28": 467
     }
   },
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 443,
+      "2024-02-29": 470,
       "2024-02-28": 467
     }
   },
@@ -241,19 +241,19 @@
     "url": "https://www09.8f7.com",
     "icon": "https://icons.duckduckgo.com/ip3/www09.8f7.com.ico",
     "slug": "8f7",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 311,
-    "timeDay": 311,
-    "timeWeek": 311,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "status": "up",
+    "uptime": "97.15%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 27
     }
   },
   {
@@ -273,7 +273,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-02-29": 443,
+      "2024-02-29": 470,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -308,11 +308,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/usaf-civ-web-001.dodmets.com.ico",
     "slug": "medical-history-survey-frontend-afmets",
     "status": "up",
-    "uptime": "82.31%",
+    "uptime": "82.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.96%",
-    "uptimeMonth": "82.31%",
-    "uptimeYear": "82.31%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "82.36%",
+    "uptimeYear": "82.36%",
     "time": 153,
     "timeDay": 156,
     "timeWeek": 157,
@@ -330,11 +330,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/usaf-civ-web-001.dodmets.com.ico",
     "slug": "medical-history-survey-backend-afmets",
     "status": "up",
-    "uptime": "90.15%",
+    "uptime": "90.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.48%",
-    "uptimeMonth": "90.15%",
-    "uptimeYear": "90.15%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "90.18%",
     "time": 158,
     "timeDay": 151,
     "timeWeek": 171,
