@@ -37,6 +37,8 @@ sites:
     url: https://usaf-civ-web-001.dodmets.com
   - name: Medical History Survey Backend Afmets
     url: https://usaf-civ-web-001.dodmets.com:3000
+  - name: Civ Quick Messages Frontend
+    url: https://quick-messages.civmets.com
   - name: Postal
     url: https://postal.dodmets.com
 
