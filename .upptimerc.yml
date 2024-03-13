@@ -29,8 +29,8 @@ sites:
     url: https://concordeanalytics.com
   - name: 8f7
     url: https://www09.8f7.com
-  - name: Medical History Survey Frontend Dodmets
-    url: https://app.dodmets.com
+  # - name: Medical History Survey Frontend Dodmets
+  #   url: https://app.dodmets.com
   - name: Medical History Survey Backend Dodmets
     url: https://app-2.dodmets.com
   - name: Medical History Survey Frontend Afmets
