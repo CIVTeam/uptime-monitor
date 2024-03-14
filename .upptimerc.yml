@@ -1,5 +1,5 @@
 # Change these first
-owner: CIVTeam # Your GitHub organization or username, where this repository lives
+owner: civcicd # Your GitHub organization or username, where this repository lives
 repo: uptime-monitor # The name of this repository
 
 sites:
