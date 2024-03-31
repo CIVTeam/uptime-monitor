@@ -7,8 +7,6 @@ sites:
     url: https://sparc.concorde2000.com
   - name: Dodmets
     url: https://dodmets.com
-#  - name: Af Dodmets
-#    url: https://af.dodmets.com
   - name: Concorde2000
     url: https://concorde2000.com
   - name: Concorde Help 
@@ -27,16 +25,10 @@ sites:
     url: https://concordeadmissions.com
   - name: Concorde Analytics
     url: https://concordeanalytics.com
-  - name: 8f7
+  - name: AppCheck
     url: https://www09.8f7.com
-  # - name: Medical History Survey Frontend Dodmets
-  #   url: https://app.dodmets.com
-  - name: Medical History Survey Backend Dodmets
+  - name: Medical History Survey Services
     url: https://app-2.dodmets.com
-  # - name: Medical History Survey Frontend Afmets
-  #   url: https://usaf-civ-web-001.dodmets.com
-  - name: Medical History Survey Backend Afmets
-    url: https://usaf-civ-web-001.dodmets.com:3000
   - name: Civ Quick Messages Frontend
     url: https://quick-messages.civmets.com
   - name: Postal
