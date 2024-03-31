@@ -7,8 +7,8 @@ sites:
     url: https://sparc.concorde2000.com
   - name: Dodmets
     url: https://dodmets.com
-  - name: Af Dodmets
-    url: https://af.dodmets.com
+#  - name: Af Dodmets
+#    url: https://af.dodmets.com
   - name: Concorde2000
     url: https://concorde2000.com
   - name: Concorde Help 
