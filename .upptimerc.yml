@@ -29,6 +29,10 @@ sites:
     url: https://www09.8f7.com
   - name: Medical History Survey Services
     url: https://app-2.dodmets.com
+  - name: Medical History Survy Frontend Dodmets
+    url: https://app.dodmets.com/status/test
+  - name: Medical History Survey Backend Dodmets
+    url: https://app-2.dodmets.com/api/test
   - name: Civ Quick Messages Frontend
     url: https://quick-messages.civmets.com
   - name: Postal
