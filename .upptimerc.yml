@@ -41,6 +41,8 @@ sites:
     url: https://quick-messages.civmets.com
   - name: Postal
     url: https://postal.dodmets.com
+  - name: Dodmets API
+    url: https://api.dodmets.com/hello/world
 
 
 status-website:
