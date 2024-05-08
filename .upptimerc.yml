@@ -7,6 +7,8 @@ sites:
     url: https://sparc.concorde2000.com
   - name: Dodmets
     url: https://dodmets.com
+  - name: Dodmets API
+    url: https://api.dodmets.com/hello/world
   - name: Concorde2000
     url: https://concorde2000.com
   - name: Concorde Help 
@@ -41,8 +43,6 @@ sites:
     url: https://quick-messages.civmets.com
   - name: Postal
     url: https://postal.dodmets.com
-  - name: Dodmets API
-    url: https://api.dodmets.com/hello/world
 
 
 status-website:
