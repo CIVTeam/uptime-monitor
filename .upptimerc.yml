@@ -3,32 +3,32 @@ owner: civcicd # Your GitHub organization or username, where this repository liv
 repo: uptime-monitor # The name of this repository
 
 sites:
-  - name: Sparc
-    url: https://sparc.concorde2000.com
+  #- name: Sparc
+  #  url: https://sparc.concorde2000.com
   - name: Dodmets
     url: https://dodmets.com
   - name: Dodmets API
     url: https://api.dodmets.com/hello/world
-  - name: Concorde2000
-    url: https://concorde2000.com
-  - name: Concorde Help 
-    url: https://engage.concorde2000.com
-  - name: Customer Support
-    url: https://customercare.concorde2000.com
+  #- name: Concorde2000
+  #  url: https://concorde2000.com
+  #- name: Concorde Help 
+  #  url: https://engage.concorde2000.com
+  #- name: Customer Support
+  #  url: https://customercare.concorde2000.com
   - name: Civteam
     url: https://civteam.com
-  - name: Drivers Clearinghouse
-    url: https://www.driversclearinghouse.com
-  - name: FastTest
-    url: https://fasttest.concorde2000.com/Login.aspx
-  - name: Smart
-    url: https://smart.concorde2000.com
-  - name: Concorde Admissions
-    url: https://concordeadmissions.com
-  - name: Concorde Analytics
-    url: https://concordeanalytics.com
-  - name: AppCheck
-    url: https://www09.8f7.com
+  #- name: Drivers Clearinghouse
+  #  url: https://www.driversclearinghouse.com
+  #- name: FastTest
+  #  url: https://fasttest.concorde2000.com/Login.aspx
+  #- name: Smart
+  #  url: https://smart.concorde2000.com
+  #- name: Concorde Admissions
+  #  url: https://concordeadmissions.com
+  #- name: Concorde Analytics
+  #  url: https://concordeanalytics.com
+  #- name: AppCheck
+  #  url: https://www09.8f7.com
   - name: Medical History Survey Services
     url: https://app-2.dodmets.com
   - name: Medical History Survey Frontend Dodmets
