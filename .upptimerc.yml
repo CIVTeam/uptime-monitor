@@ -43,6 +43,8 @@ sites:
     url: https://quick-messages.civmets.com
   - name: Postal
     url: https://postal.dodmets.com
+  - name: Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
