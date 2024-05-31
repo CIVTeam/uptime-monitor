@@ -45,6 +45,8 @@ sites:
     url: https://postal.dodmets.com
   - name: Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Example Site
+    url: https://civ-hello-world-app-development.azurewebsites.us/status
 
 
 status-website:
