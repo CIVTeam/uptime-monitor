@@ -56,7 +56,7 @@ status-website:
   # baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Uptime.CIVMETS.app** is the uptime monitor and status page for CIV Team [https://civteam.com]" # Title Message
   introMessage: This is a monitor and status page for the following sites
   navbar:
     - title: Status
