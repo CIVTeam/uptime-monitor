@@ -56,8 +56,8 @@ status-website:
   # baseUrl: /uptime-monitor
   logoUrl: https://civteam.com/wp-content/uploads/2019/05/cropped-logo_civteam_150h.jpg #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Uptime.CIVMETS.app** is the uptime monitor and status page for CIV Team [https://civteam.com]" # Title Message
-  introMessage: This is a monitor and status page for the following CIV Team sites
+  introTitle: "The uptime monitor and status page for CIV Team" # Title Message
+  introMessage: All CIV Team sites including DoDMETS and CIVTeam.com are monitored via this page
   navbar:
     - title: Status
       href: /
