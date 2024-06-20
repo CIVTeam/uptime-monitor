@@ -1,7 +1,7 @@
 url: https://usaf-civ-web-001.dodmets.com:3000/api/test
-status: up
-code: 200
-responseTime: 150
-lastUpdated: 2024-06-19T23:15:27.856Z
+status: down
+code: 502
+responseTime: 509
+lastUpdated: 2024-06-20T20:29:45.592Z
 startTime: 2024-04-11T17:31:52.517Z
 generator: Upptime <https://github.com/upptime/upptime>
