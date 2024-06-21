@@ -43,10 +43,6 @@ sites:
     url: https://quick-messages.civmets.com
   - name: Postal
     url: https://postal.dodmets.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Example Site
-    url: https://civ-hello-world-app-development.azurewebsites.us/status
 
 
 status-website:
