@@ -56,6 +56,8 @@ sites:
     url: https://af-passwd-reset-app-serv-api-01.azurewebsites.us
   - name: AF Password Reset Frontend
     url: https://af-passwd-reset-web-app-client-01.azurewebsites.us
+  - name: AF Quick Messages Api
+    url: https://af-qk-mesg-app-serv-api-01.azurewebsites.us
 
 
 status-website:
