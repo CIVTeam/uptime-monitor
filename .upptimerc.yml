@@ -58,6 +58,8 @@ sites:
     url: https://af-passwd-reset-web-app-client-01.azurewebsites.us
   - name: AF Quick Messages Api
     url: https://af-qk-mesg-app-serv-api-01.azurewebsites.us
+  - name: AF Quick Messages Frontend
+    url: https://af-qk-mesg-app-srv-client-01.azurewebsites.us
 
 
 status-website:
