@@ -44,21 +44,21 @@ sites:
   - name: Postal
     url: https://postal.dodmets.com
   
-  - name: AF E-Opto Api
+  - name: AF E-Opto Services
     url: https://af-e-opto-web-app-serv-api-01.azurewebsites.us
-  - name: AF E-Opto Frontend
+  - name: AF E-Opto
     url: https://af-e-opto-web-app-serv-client-01.azurewebsites.us
-  - name: AF Quick Errors Api
+  - name: AF Quick Errors Services
     url: https://af-qk-errors-serv-api-01.azurewebsites.us
-  - name: AF Quick Errors Frontend
+  - name: AF Quick Errors
     url: https://af-qk-errors-web-app-serv-client-01.azurewebsites.us
-  - name: AF Password Reset Api
+  - name: AF Password Reset Services
     url: https://af-passwd-reset-app-serv-api-01.azurewebsites.us
-  - name: AF Password Reset Frontend
+  - name: AF Password Reset
     url: https://af-passwd-reset-web-app-client-01.azurewebsites.us
-  - name: AF Quick Messages Api
+  - name: AF Quick Messages Services
     url: https://af-qk-mesg-app-serv-api-01.azurewebsites.us
-  - name: AF Quick Messages Frontend
+  - name: AF Quick Messages
     url: https://af-qk-mesg-app-srv-client-01.azurewebsites.us
 
 
